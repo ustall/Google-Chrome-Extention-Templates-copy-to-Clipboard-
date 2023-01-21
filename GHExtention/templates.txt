@@ -1,0 +1,3 @@
+Hi ...\nText template 1
+Hi ...\nText template 2\nMore text
+Hi ...\nText template 3\nMore text
