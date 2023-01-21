@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "AddOps Helper",
+    "version": "0.02",
+    "description": "Templates-copy-to-Clipboard",
+    "author": "Maxim Gorbachev",
+    "permissions": ["scripting","tabs","activeTab"],
+    "action":{
+        "default_popup": "popup.html"
+    }
+}
