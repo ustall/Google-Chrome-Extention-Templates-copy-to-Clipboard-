@@ -1,3 +1,4 @@
-Hi ...\nText template 1
-Hi ...\nText template 2\nMore text
-Hi ...\nText template 3\nMore text
+Hi ...\nText template 1\n
+Hi ...\nText template 2\nMore text\n
+Hi ...\nText template 3\nMore text\n
+Hi ...\nText template 4\nMore text\n
